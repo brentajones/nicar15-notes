@@ -4,7 +4,7 @@ These are notes from sessions I'm attending at the National Institute of Compute
 
 [NICAR15 Schedule](http://www.ire.org/blog/car-conference-blog/2015/03/04/nicar15-schedule-updates-and-changes/)
 
-## Friday
+## Thursday
 
 * [Facilitated discussion: Time and task management](time-and-task-management.md)
 * [Uncovering racial and economic divides using data](uncovering-racial-and-economic-divides-using-data.md)
