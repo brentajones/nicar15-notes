@@ -14,3 +14,4 @@ These are notes from sessions I'm attending at the National Institute of Compute
 ## Friday
 
 * [Bridging the developer-journalist gap](bridging-the-developer-journalist-gap.md)
+* [Red alert: Tools to automatically generate story leads](red-alert-story-leads.md)
