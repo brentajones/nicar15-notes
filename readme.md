@@ -8,3 +8,5 @@ These are notes from sessions I'm attending at the National Institute of Compute
 
 * [Facilitated discussion: Time and task management](time-and-task-management.md)
 * [Uncovering racial and economic divides using data](uncovering-racial-and-economic-divides-using-data.md)
+* [Data on the Beat](data-on-the-beat.md)
+* [Humanizing Data](humanizing-data.md)
