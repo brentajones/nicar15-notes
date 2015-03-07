@@ -20,3 +20,4 @@ These are notes from sessions I'm attending at the National Institute of Compute
 ## Saturday
 
 * [Processes, Standards and Documentation for Data Driven Projects](processes-for-data-driven-projects.md)
+* [How to build a happy team](building-happy-teams.md)
