@@ -21,3 +21,9 @@ These are notes from sessions I'm attending at the National Institute of Compute
 
 * [Processes, Standards and Documentation for Data Driven Projects](processes-for-data-driven-projects.md)
 * [How to build a happy team](building-happy-teams.md)
+
+## Sunday
+
+* Installation Party!
+* QGIS 2
+* Advanced DocumentCloud
