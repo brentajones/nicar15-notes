@@ -4,6 +4,8 @@ These are notes from sessions I'm attending at the National Institute of Compute
 
 [NICAR15 Schedule](http://www.ire.org/blog/car-conference-blog/2015/03/04/nicar15-schedule-updates-and-changes/)
 
+[Chrys Wu's links to everything](http://blog.chryswu.com/2015/02/20/nicar-2015-slides-links-tutorials/)
+
 ## Thursday
 
 * [Facilitated discussion: Time and task management](time-and-task-management.md)
